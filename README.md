@@ -12,7 +12,9 @@ Response in TLP regarding non-uniform memory alignment
 TLPs error checking
 
 ## Purpose
-The purpose of releasing this firmware is to harmonize the device and prevent further resale, as many individuals are reselling this series of firmware for around $200.
+The purpose of releasing this firmware is to harmonize the device and prevent further resale
+
+as many individuals are reselling this series of firmware for around $200.
 
 ## Resources
 We will provide compilation tutorials to assist users in using this firmware.
