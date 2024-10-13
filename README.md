@@ -2,9 +2,13 @@
 
 ## Legal Devices Emulated
 1:1 configuration space with IP core
+
 Driver support
+
 Full BAR support
+
 Response in TLP regarding non-uniform memory alignment
+
 TLPs error checking
 
 ## Purpose
