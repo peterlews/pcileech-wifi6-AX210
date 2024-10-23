@@ -19,4 +19,4 @@ We will provide compilation tutorials to assist users in using this firmware.
 ## Join Us
 If you have any questions, feel free to join our group!
 
-[Discord community](https://discord.gg/xr4YF8cVx3).
+[Discord community](https://discord.gg/F7N2JKCzDm).
