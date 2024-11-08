@@ -7,6 +7,8 @@
 - Response in TLP regarding non-uniform memory alignment
 - TLPs error checking
 
+> ⚠️ **Note to Malicious Attackers and Troublemakers**  
+> Please refrain from joining our group. We do not welcome individuals who intend to misuse our free resources for resale purposes. Such members will be removed from the community
 
 ### Open Access to Network Card DMA Firmware
 ACE has recently restricted many RTL-type devices, including network card DMA firmware. Importantly, this technology has become **publicly accessible**, allowing anyone with basic technical knowledge to quickly learn and create it. As a result, prices for these firmware solutions remain relatively affordable, generally within the **100-180 USD** range. This applies to both Killer cards and other models, so prices should not vary significantly.
