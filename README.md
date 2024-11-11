@@ -24,7 +24,6 @@ However:
 ### Scam Alert
 If you’ve paid **300 USD** for network card emulation firmware, there’s a strong chance you’ve been overcharged, as this technology is now widely accessible.
 
-
 ## Purpose
 The purpose of releasing this firmware is to harmonize the device and prevent further resale, as many individuals are reselling this series of firmware for around $200.
 
