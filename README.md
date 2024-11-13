@@ -6,7 +6,16 @@
 - Full BAR support
 - Response in TLP regarding non-uniform memory alignment
 - TLPs error checking
+## ⚠️ Important Update on Network Card Firmware
 
+ACE has now marked all **Intel** and **Realtek** series network cards. In the future, **network card firmware** will be fully detected. Scammers who are exploiting our open-source technology will soon be exposed.
+
+### Why We Open-Sourced This Project
+The primary purpose of open-sourcing this project was to **counter the exploitation of our work**. By making the technology publicly available, we ensure that **malicious users** cannot hide behind our creations and resell them unlawfully.
+
+We will continue to monitor and update the firmware to stay ahead of these attempts.
+
+Thank you for your continued support.
 > ⚠️ **Note to Malicious Attackers and Troublemakers**  
 > Please refrain from joining our group. We do not welcome individuals who intend to misuse our free resources for resale purposes. Such members will be removed from the community
 
