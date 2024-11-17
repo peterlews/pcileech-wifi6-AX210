@@ -6,6 +6,13 @@
 - Full BAR support
 - Response in TLP regarding non-uniform memory alignment
 - TLPs error checking
+
+## ⚠️ About TLP Interrupts
+
+The TLP interrupt mechanism requires proper echoing with the computer motherboard. This project was developed specifically for **ASUS motherboards**, ensuring compatibility. However, many individuals who have **stolen this project** fail to adapt the kernel interrupts for other systems. As a result, users might experience issues such as **blue screens** or other errors due to these unaddressed compatibility problems. These individuals often mislead users into switching to specific motherboards instead of resolving the underlying issues, highlighting their lack of technical expertise.
+
+While **network card firmware technology is outdated**, some developers continue to sell it at **high prices**, exploiting users who may not know better. Our decision to open-source this technology has disrupted many fraudulent developers, leading to retaliation instead of constructive improvements on their part. We believe that true developers should focus on **learning, innovating**, and solving compatibility challenges rather than deceiving customers or charging unreasonable fees.
+  
 ## ⚠️ Important Update on Network Card Firmware
 
 ACE has now marked all **Intel** and **Realtek** series network cards. In the future, **network card firmware** will be fully detected. Scammers who are exploiting our open-source technology will soon be exposed.
