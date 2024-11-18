@@ -42,4 +42,4 @@ However:
 ### Scam Alert
 If you’ve paid **300 USD** for network card emulation firmware, there’s a strong chance you’ve been overcharged, as this technology is now widely accessible.
 
-[Discord community](https://discord.gg/SyuQjTQ32P).
+[Discord community](https://discord.gg/Syu11eP).
