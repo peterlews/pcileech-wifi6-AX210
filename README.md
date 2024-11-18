@@ -6,6 +6,8 @@
 - Full BAR support
 - Response in TLP regarding non-uniform memory alignment
 - TLPs error checking
+## Caution Against Scammers
+Currently, there are many fake users cloning this open-source library and using our information to deceive others. 
 
 ## ⚠️ About TLP Interrupts
 
