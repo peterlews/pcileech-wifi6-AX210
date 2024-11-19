@@ -1,4 +1,4 @@
-# AX210 Emulated Firmware
+# intel ax nic Emulated Firmware
 
 ## Legal Devices Emulated
 - 1:1 configuration space with IP core
