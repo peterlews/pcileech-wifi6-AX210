@@ -9,7 +9,7 @@
 ## Caution Against Scammers
 Currently, there are many fake users cloning this open-source library and using our information to deceive others. 
 
-JOIN DISCORD https://discord.gg/SyuQjTQ32P
+Join my [Discord community](https://discord.gg/pQUKm2a3gf).
 
 ## ⚠️ About TLP Interrupts
 
