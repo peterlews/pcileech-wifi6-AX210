@@ -37,6 +37,10 @@ ACE has recently restricted many RTL-type devices, including network card DMA fi
 ### Recognizing False Claims and High-Price Tactics
 Some individuals may attempt to mislead new players by claiming that open-source network card devices, often with additional modifications, are exclusive "internal" products. They may also assert that their versions are unique or private. 
 
+There are a lot of malicious attackers we have made IP restriction
+Please keep your IP safe and enter our group.
+https://discord.gg/PLTJOHN
+
 However:
 - **Unique Firmware:** ACE is likely to soon gather data on all such devices. Each firmware version requires unique encoding, ensuring distinct versions for each user.
 - **Open and Accessible Technology:** With the right emulation skills, anyone can achieve stability and reliability in these devices. There is no "private" firmware—only **thousands of lines of code** accessible to those who seek it.
